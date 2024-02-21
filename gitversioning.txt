@@ -1,0 +1,13 @@
+create a folder in local computer
+create a repo on remote server(github)
+
+1- git init -b branchname
+ or git init 
+2- git add .
+3- git commit -m "message"
+4- git remote add origin githublink
+5-git push origin branchname
+6-git status
+7-git branchname
+8-git checkout
+9-git pull (to accept changes from remote to local)
