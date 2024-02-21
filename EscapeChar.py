@@ -16,6 +16,5 @@
 # it is still a str on a same line" """)
 
 # #use python -u filename to run on terminal
-
 print("D:\\python_TB_udemy\\EscapeChar.py")
 print(r"D:\python_TB_udemy\EscapeChar.py")  #raw strings
