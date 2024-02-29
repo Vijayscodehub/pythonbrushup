@@ -15,6 +15,8 @@ greeting = "hello"
 print(greeting)
 print(type(greeting))
 
-time= "2 'o clock "
-print(time)
-print(type(time))
+# time= "2 'o clock "
+# print(time)
+# print(type(time))
+
+# print(greeting + " " + time) #TypeError: can only concatenate str (not "int") to str
