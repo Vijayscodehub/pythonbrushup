@@ -1,1 +1,1 @@
-5 +4
+    # print("Value of : {0} squared is {1} and cubed is {2}".format(x, x**2,x**3))

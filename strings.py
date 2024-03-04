@@ -20,3 +20,12 @@ print(type(greeting))
 # print(type(time))
 
 # print(greeting + " " + time) #TypeError: can only concatenate str (not "int") to str
+
+
+############# USE of Fstrings
+val = 4
+text = "here, "
+print(text+f"Four in number is : {val}")  # using f string to concatenate str and int
+print(f"Pi is approx {22/7:12.50f}")
+pi = 22/7
+print(f"Pi is approx {pi:12.50f}")  #12.50f is for precision
